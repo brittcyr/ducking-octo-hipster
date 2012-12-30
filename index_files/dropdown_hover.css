@@ -1,0 +1,11 @@
+
+
+/* Make the menu dropdown on hover */
+ul.nav li.dropdown:hover ul.dropdown-menu{
+  display: block;    
+}
+
+/* Remove the gap between dropdown and menu */
+.navbar .dropdown-menu {
+   margin-top: 0px;
+}
